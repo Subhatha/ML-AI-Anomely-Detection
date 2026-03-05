@@ -1,0 +1,8 @@
+Dataset →
+Cleaning → 
+Feature Selection → 
+Train/Test Split → 
+Model Training → 
+Evaluation → 
+Comparison → 
+Analysis
